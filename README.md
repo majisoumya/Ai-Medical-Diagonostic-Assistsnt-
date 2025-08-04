@@ -16,7 +16,7 @@ An intelligent web-based diagnostic tool that uses Google Gemini AI to analyze u
 🌐 Fully hosted on Render and accessible online.
 
 🚀 Live Demo
-🌍 Open the Web App
+🌍 https://ai-medical-soumyadip.onrender.com
 
 📸 Screenshots
 Upload Panel	Analysis Panel
