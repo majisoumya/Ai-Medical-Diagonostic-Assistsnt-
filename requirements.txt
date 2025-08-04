@@ -1,0 +1,5 @@
+Pillow==11.3.0
+protobuf==6.31.1
+Requests==2.32.4
+streamlit==1.47.1
+streamlit_lottie==0.0.5
